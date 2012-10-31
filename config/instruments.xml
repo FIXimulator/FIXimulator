@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instruments>
+   <instrument name="TXU CORP" ticker="TXU" sedol="2885700" ric="TXU.N" cusip="873168108" price="58.56"/>
+   <instrument name="INTL BUSINESS MACHINES CORP" ticker="IBM" sedol="2005973" ric="IBM.N" cusip="459200101" price="92.07"/>
+   <instrument name="YAHOO! INC" ticker="YHOO" sedol="2986539" ric="YHOO.OQ" cusip="984332106" price="32.09"/>
+   <instrument name="EBAY INC" ticker="EBAY" sedol="2293819" ric="EBAY.OQ" cusip="278642103" price="32.59"/>
+   <instrument name="AMAZON.COM INC" ticker="AMZN" sedol="2000019" ric="AMZN.OQ" cusip="023135106" price="34.15"/>
+   <instrument name="LUCENT TECHNOLOGIES INC" ticker="LU" sedol="2537573" ric="LU.N" cusip="549463107" price="2.52"/>
+   <instrument name="TEMPUR-PEDIC INTERNATIONAL" ticker="TPX" sedol="2216991" ric="TPX.N" cusip="88023U101" price="19.24"/>
+   <instrument name="MENTOR GRAPHICS CORP" ticker="MENT" sedol="2578033" ric="MENT.OQ" cusip="587200106" price="13.60"/>
+   <instrument name="AMERICAN STANDARD COS INC" ticker="ASD" sedol="2029809" ric="ASD.N" cusip="029712106" price="45.27"/>
+   <instrument name="FREESCALE SEMICONDUCTOR-A" ticker="FSL" sedol="B01XK74" ric="FSL.N" cusip="35687M107" price="39.71"/>
+   <instrument name="AVNET INC" ticker="AVT" sedol="2066505" ric="AVT.N" cusip="053807103" price="25.49"/>
+   <instrument name="CISCO SYSTEMS INC" ticker="CSCO" sedol="2198163" ric="CSCO.OQ" cusip="17275R102" price="20.74"/>
+   <instrument name="SPRINT NEXTEL CORP" ticker="S" sedol="2922447" ric="FON.N" cusip="852061100" price="20.50"/>
+   <instrument name="HEWLETT-PACKARD CO" ticker="HPQ" sedol="2424006" ric="HPQ.N" cusip="428236103" price="40.12"/>
+   <instrument name="AT&amp;amp;T INC" ticker="T" sedol="2831811" ric="T.N" cusip="00206R102" price="33.06"/>
+   <instrument name="APPLIED MICRO CIRCUITS CORP" ticker="AMCC" sedol="2128762" ric="AMCC.OQ" cusip="03822W109" price="3.54"/>
+   <instrument name="PRUDENTIAL FINANCIAL INC" ticker="PRU" sedol="2819118" ric="PRU.N" cusip="744320102" price="79.25"/>
+   <instrument name="AMERISOURCEBERGEN CORP" ticker="ABC" sedol="2795393" ric="ABC.N" cusip="03073E105" price="44.98"/>
+   <instrument name="MICROSOFT CORP" ticker="MSFT" sedol="2588173" ric="MSFT.OQ" cusip="594918104" price="23.76"/>
+   <instrument name="DUKE ENERGY CORP" ticker="DUK" sedol="B127425" ric="DUK.N" cusip="26441C105" price="31.72"/>
+   <instrument name="BRISTOL-MYERS SQUIBB CO" ticker="BMY" sedol="2126335" ric="BMY.N" cusip="110122108" price="24.41"/>
+   <instrument name="NABORS INDUSTRIES LTD" ticker="NBR" sedol="2963372" ric="NBR.N" cusip="G6359F103" price="31.21"/>
+   <instrument name="COUNTRYWIDE FINANCIAL CORP" ticker="CFC" sedol="2229676" ric="CFC.N" cusip="222372104" price="40.27"/>
+   <instrument name="HOST HOTELS &amp;amp; RESORTS INC" ticker="HST" sedol="2567503" ric="HST.N" cusip="44107P104" price="23.72"/>
+   <instrument name="DTE ENERGY COMPANY" ticker="DTE" sedol="2280220" ric="DTE.N" cusip="233331107" price="46.07"/>
+   <instrument name="HOLOGIC INC" ticker="HOLX" sedol="2433530" ric="HOLX.OQ" cusip="436440101" price="48.17"/>
+   <instrument name="VODAFONE GROUP PLC-SP ADR" ticker="VOD" sedol="2726445" ric="VOD.N" cusip="92857W100" price="25.95"/>
+   <instrument name="REALNETWORKS INC" ticker="RNWK" sedol="2127918" ric="RNWK.OQ" cusip="75605L104" price="10.55"/>
+   <instrument name="PROGRESSIVE GAMING INTERNATI" ticker="PGIC" sedol="2608220" ric="PGIC.OQ" cusip="74332S102" price="9.28"/>
+   <instrument name="BUCYRUS INTERNATIONAL INC-A" ticker="BUCY" sedol="B018TZ0" ric="BUCY.OQ" cusip="118759109" price="56.68"/>
+   <instrument name="TELEFONOS DE MEXICO-SP ADR L" ticker="TMX" sedol="2881612" ric="TMX.N" cusip="879403780" price="26.37"/>
+   <instrument name="ADTRAN INC" ticker="ADTN" sedol="2052924" ric="ADTN.OQ" cusip="00738A106" price="25.56"/>
+   <instrument name="TAKE-TWO INTERACTIVE SOFTWRE" ticker="TTWO" sedol="2122117" ric="TTWO.OQ" cusip="874054109" price="16.36"/>
+   <instrument name="CVS CORP" ticker="CVS" sedol="2577609" ric="CVS.N" cusip="126650100" price="28.99"/>
+   <instrument name="WACHOVIA CORP" ticker="WB" sedol="2341860" ric="WB.N" cusip="929903102" price="55.49"/>
+   <instrument name="MOLEX INC" ticker="MOLX" sedol="2599142" ric="MOLX.OQ" cusip="608554101" price="39.03"/>
+   <instrument name="DORAL FINANCIAL CORP" ticker="DRL" sedol="2343372" ric="DRL.N" cusip="25811P100" price="4.25"/>
+   <instrument name="FIRST DATA CORP" ticker="FDC" sedol="2344331" ric="FDC.N" cusip="319963104" price="24.81"/>
+   <instrument name="DRESSER-RAND GROUP INC" ticker="DRC" sedol="B0G0V77" ric="DRC.N" cusip="261608103" price="23.13"/>
+   <instrument name="FAIRCHILD SEMICON INTERNATIO" ticker="FCS" sedol="2444479" ric="FCS.N" cusip="303726103" price="16.55"/>
+   <instrument name="AUTODESK INC" ticker="ADSK" sedol="2065159" ric="ADSK.OQ" cusip="052769106" price="39.01"/>
+   <instrument name="KNOT INC" ticker="KNOT" sedol="2526991" ric="KNOT.OQ" cusip="499184109" price="23.71"/>
+   <instrument name="CENTERPOINT ENERGY INC" ticker="CNP" sedol="2440637" ric="CNP.N" cusip="15189T107" price="16.20"/>
+   <instrument name="PIONEER NATURAL RESOURCES CO" ticker="PXD" sedol="2690830" ric="PXD.N" cusip="723787107" price="40.69"/>
+   <instrument name="INTEGRATED DEVICE TECH INC" ticker="IDTI" sedol="2462437" ric="IDTI.OQ" cusip="458118106" price="15.31"/>
+   <instrument name="CHECKFREE CORP" ticker="CKFR" sedol="2163376" ric="CKFR.OQ" cusip="162813109" price="55.72"/>
+   <instrument name="UTSTARCOM INC" ticker="UTSI" sedol="2557139" ric="UTSI.OQ" cusip="918076100" price="7.27"/>
+   <instrument name="PLANTRONICS INC" ticker="PLT" sedol="2692030" ric="PLT.N" cusip="727493108" price="19.78"/>
+   <instrument name="GARMIN LTD" ticker="GRMN" sedol="2695620" ric="GRMN.OQ" cusip="G37260109" price="97.00"/>
+   <instrument name="JOHNSON &amp; JOHNSON" ticker="JNJ" sedol="2475833" ric="JNJ.N" cusip="478160104" price="65.94"/>
+   <instrument name="INTERGRAPH CORP" ticker="INGR" sedol="2463292" ric="INGR.OQ" cusip="458683109" price="42.88"/>
+   <instrument name="NORTHEAST UTILITIES" ticker="NU" sedol="2645108" ric="NU.N" cusip="664397106" price="26.22"/>
+   <instrument name="MASSEY ENERGY CO" ticker="MEE" sedol="2343662" ric="MEE.N" cusip="576206106" price="24.75"/>
+   <instrument name="MARTIN MARIETTA MATERIALS" ticker="MLM" sedol="2572079" ric="MLM.N" cusip="573284106" price="95.10"/>
+   <instrument name="GILEAD SCIENCES INC" ticker="GILD" sedol="2369174" ric="GILD.OQ" cusip="375558103" price="56.79"/>
+   <instrument name="NEW PLAN EXCEL REALTY TRUST" ticker="NXL" sedol="2322092" ric="NXL.N" cusip="648053106" price="27.27"/>
+   <instrument name="FOREST LABORATORIES INC" ticker="FRX" sedol="2346508" ric="FRX.N" cusip="345838106" price="47.28"/>
+   <instrument name="FEDERAL SIGNAL CORP" ticker="FSS" sedol="2333986" ric="FSS.N" cusip="313855108" price="15.45"/>
+   <instrument name="LOWE'S COS INC" ticker="LOW" sedol="2536763" ric="LOW.N" cusip="548661107" price="29.00"/>
+   <instrument name="MERRILL LYNCH &amp; CO INC" ticker="MER" sedol="2580986" ric="MER.N" cusip="590188108" price="89.41"/>
+   <instrument name="PRIDE INTERNATIONAL INC" ticker="PDE" sedol="2802992" ric="PDE.N" cusip="74153Q102" price="28.57"/>
+   <instrument name="DOMINION RESOURCES INC/VA" ticker="D" sedol="2542049" ric="D.N" cusip="25746U109" price="81.20"/>
+   <instrument name="TEVA PHARMACEUTICAL-SP ADR" ticker="TEVA" sedol="2883878" ric="TEVA.OQ" cusip="881624209" price="37.56"/>
+   <instrument name="ENTERGY CORP" ticker="ETR" sedol="2317087" ric="ETR.N" cusip="29364G103" price="87.64"/>
+   <instrument name="CYPRESS SEMICONDUCTOR CORP" ticker="CY" sedol="2244549" ric="CY.N" cusip="232806109" price="16.78"/>
+   <instrument name="HILTON HOTELS CORP" ticker="HLT" sedol="2428008" ric="HLT.N" cusip="432848109" price="30.85"/>
+   <instrument name="WAL-MART STORES INC" ticker="WMT" sedol="2936921" ric="WMT.N" cusip="931142103" price="46.32"/>
+   <instrument name="GOL LINHAS AEREAS INTEL-ADR" ticker="GOL" sedol="B01NTB1" ric="GOL.N" cusip="38045R107" price="28.89"/>
+   <instrument name="OFFICEMAX INC" ticker="OMX" sedol="2109002" ric="OMX.N" cusip="67622P101" price="49.57"/>
+   <instrument name="WASHINGTON MUTUAL INC" ticker="WM" sedol="2942188" ric="WM.N" cusip="939322103" price="42.97"/>
+   <instrument name="BELLSOUTH CORP" ticker="BLS" sedol="2090601" ric="BLS.N" cusip="079860102" price="43.17"/>
+   <instrument name="WENDY'S INTERNATIONAL INC" ticker="WEN" sedol="2947956" ric="WEN.N" cusip="950590109" price="35.30"/>
+   <instrument name="UNIVERSAL DETECTION TECHNOLO" ticker="UDTT" sedol="2247344" ric="UDTTE.OB" cusip="913459103" price="0.01"/>
+   <instrument name="HEINEKEN NV-ADR" ticker="HINKY" sedol="2419176" ric="HINKY.PK" cusip="423012202" price="23.90"/>
+   <instrument name="ELECTRONICS FOR IMAGING" ticker="EFII" sedol="2310202" ric="EFII.OQ" cusip="286082102" price="27.00"/>
+   <instrument name="U.S. XPRESS ENTERPRISES-A" ticker="XPRSA" sedol="2896412" ric="XPRSA.OQ" cusip="90338N103" price="23.69"/>
+   <instrument name="AMERICAN INTERNATIONAL GROUP" ticker="AIG" sedol="2027342" ric="AIG.N" cusip="026874107" price="70.65"/>
+   <instrument name="VULCAN MATERIALS CO" ticker="VMC" sedol="2931205" ric="VMC.N" cusip="929160109" price="88.65"/>
+   <instrument name="AGCO CORP" ticker="AG" sedol="2010278" ric="AG.N" cusip="001084102" price="30.89"/>
+   <instrument name="SUPERIOR INDUSTRIES INTL" ticker="SUP" sedol="2864141" ric="SUP.N" cusip="868168105" price="18.31"/>
+   <instrument name="MERCANTILE BANKSHARES CORP" ticker="MRBK" sedol="2578389" ric="MRBK.OQ" cusip="587405101" price="37.62"/>
+   <instrument name="PNC FINANCIAL SERVICES GROUP" ticker="PNC" sedol="2692665" ric="PNC.N" cusip="693475105" price="69.34"/>
+   <instrument name="AMERICAN ELECTRIC POWER" ticker="AEP" sedol="2026242" ric="AEP.N" cusip="025537101" price="41.43"/>
+   <instrument name="DYAX CORP" ticker="DYAX" sedol="2621487" ric="DYAX.OQ" cusip="26746E103" price="3.06"/>
+   <instrument name="MASCO CORP" ticker="MAS" sedol="2570200" ric="MAS.N" cusip="574599106" price="27.92"/>
+   <instrument name="STARWOOD HOTELS &amp; RESORTS" ticker="HOT" sedol="B12GHV2" ric="HOT.N" cusip="85590A401" price="62.58"/>
+   <instrument name="FISHER SCIENTIFIC INTL INC" ticker="FSH" sedol="2345301" ric="FSH.N" cusip="338032204" price="86.58"/>
+   <instrument name="THERMO ELECTRON CORP" ticker="TMO" sedol="2886907" ric="TMO.N" cusip="883556102" price="43.62"/>
+   <instrument name="PROGRESS ENERGY INC" ticker="PGN" sedol="2604206" ric="PGN.N" cusip="743263105" price="46.32"/>
+   <instrument name="INTERNET HOLDRs TRUST" ticker="HHH" sedol="2490018" ric="HHH.A" cusip="46059W102" price="54.18"/>
+   <instrument name="SYNOVUS FINANCIAL CORP" ticker="SNV" sedol="2158974" ric="SNV.N" cusip="87161C105" price="29.76"/>
+   <instrument name="PEOPLES BANK" ticker="PBCT" sedol="2682406" ric="PBCT.OQ" cusip="710198102" price="32.77"/>
+   <instrument name="RESPIRONICS INC" ticker="RESP" sedol="2732549" ric="RESP.OQ" cusip="761230101" price="35.69"/>
+   <instrument name="THQ INC" ticker="THQI" sedol="2868789" ric="THQI.OQ" cusip="872443403" price="24.73"/>
+   <instrument name="CABLEVISION SYSTEMS-NY GRP-A" ticker="CVC" sedol="2162243" ric="CVC.N" cusip="12686C109" price="27.93"/>
+   <instrument name="PNM RESOURCES INC" ticker="PNM" sedol="2707826" ric="PNM.N" cusip="69349H107" price="30.48"/>
+   <instrument name="ALLIANT ENERGY CORP" ticker="LNT" sedol="2973821" ric="LNT.N" cusip="018802108" price="39.38"/>
+   <instrument name="LAM RESEARCH CORP" ticker="LRCX" sedol="2502247" ric="LRCX.OQ" cusip="512807108" price="51.81"/>
+   <instrument name="COVENTRY HEALTH CARE INC" ticker="CVH" sedol="2232696" ric="CVH.N" cusip="222862104" price="45.54"/>
+   <instrument name="ALTERA CORPORATION" ticker="ALTR" sedol="2021690" ric="ALTR.OQ" cusip="021441100" price="19.83"/>
+   <instrument name="PEPCO HOLDINGS INC" ticker="POM" sedol="2971698" ric="POM.N" cusip="713291102" price="25.53"/>
+   <instrument name="JACUZZI BRANDS INC" ticker="JJZ" sedol="2937054" ric="JJZ.N" cusip="469865109" price="12.54"/>
+   <instrument name="AMGEN INC" ticker="AMGN" sedol="2023607" ric="AMGN.OQ" cusip="031162100" price="67.54"/>
+   <instrument name="BANK OF AMERICA CORP" ticker="BAC" sedol="2295677" ric="BAC.N" cusip="060505104" price="54.46"/>
+   <instrument name="BEST BUY CO INC" ticker="BBY" sedol="2094670" ric="BBY_w.N^H05" cusip="086516101" price="52.05"/>
+   <instrument name="PORTLAND GENERAL ELECTRIC CO" ticker="POR" sedol="B125XQ6" ric="POR_w.N" cusip="736508847" price="27.28"/>
+   <instrument name="RECKSON ASSOC REALTY CORP" ticker="RA" sedol="2734943" ric="RA.N" cusip="75621K106" price="44.37"/>
+   <instrument name="RESMED INC" ticker="RMD" sedol="2732903" ric="RMD.N" cusip="761152107" price="46.78"/>
+   <instrument name="IDT CORP-CL B" ticker="IDT" sedol="2757304" ric="IDT.N" cusip="448947309" price="12.72"/>
+   <instrument name="MCDATA CORPORATION-A" ticker="MCDTA" sedol="2722669" ric="MCDTA.OQ" cusip="580031201" price="4.21"/>
+   <instrument name="BROCADE COMMUNICATIONS SYS" ticker="BRCD" sedol="2422174" ric="BRCD.OQ" cusip="111621108" price="6.42"/>
+   <instrument name="SEAGATE TECHNOLOGY" ticker="STX" sedol="2166245" ric="STX.N" cusip="G7945J104" price="23.15"/>
+   <instrument name="BAIDU.COM - ADR" ticker="BIDU" sedol="B0FXT17" ric="BIDU.OQ" cusip="056752108" price="103.25"/>
+   <instrument name="NASDAQ-100 INDEX TRCKNG STCK" ticker="QQQQ" sedol="2402433" ric="QQQQ.OQ" cusip="631100104" price="43.47"/>
+   <instrument name="ADVANCED MICRO DEVICES" ticker="AMD" sedol="2007849" ric="AMD.N" cusip="007903107" price="21.20"/>
+   <instrument name="HALLIBURTON CO" ticker="HAL" sedol="2405302" ric="HAL.N" cusip="406216101" price="31.99"/>
+   <instrument name="SBA COMMUNICATIONS CORP-CL A" ticker="SBAC" sedol="2429294" ric="SBAC.OQ" cusip="78388J106" price="25.75"/>
+   <instrument name="E*TRADE FINANCIAL CORP" ticker="ET" sedol="2299011" ric="ET.N" cusip="269246104" price="23.93"/>
+   <instrument name="EDWARDS" ticker="AGE" sedol="2305714" ric="AGE.N" cusip="281760108" price="57.16"/>
+   <instrument name="QUEST DIAGNOSTICS" ticker="DGX" sedol="2702791" ric="DGX.N" cusip="74834L100" price="51.22"/>
+   <instrument name="GLOBALSANTAFE CORP" ticker="GSF" sedol="2016180" ric="GSF.N" cusip="G3930E101" price="55.00"/>
+   <instrument name="EDUCATION REALTY TRUST INC" ticker="EDR" sedol="B04NJN0" ric="EDR.N" cusip="28140H104" price="14.72"/>
+   <instrument name="SEPRACOR INC" ticker="SEPR" sedol="2796619" ric="SEPR.OQ" cusip="817315104" price="45.05"/>
+   <instrument name="EMDEON CORP" ticker="HLTH" sedol="2387198" ric="HLTH.OQ" cusip="290849108" price="11.93"/>
+   <instrument name="MARRIOTT INTERNATIONAL-CL A" ticker="MAR" sedol="2210614" ric="MAR.N" cusip="571903202" price="44.55"/>
+   <instrument name="DIAMONDS TRUST SERIES I" ticker="DIA" sedol="2140863" ric="DIA.A" cusip="252787106" price="121.35"/>
+   <instrument name="ARCH CHEMICALS INC" ticker="ARJ" sedol="2386117" ric="ARJ.N" cusip="03937R102" price="32.74"/>
+   <instrument name="FOUNDATION COAL HOLDINGS INC" ticker="FCL" sedol="B04QP20" ric="FCL.N" cusip="35039W100" price="35.54"/>
+   <instrument name="ELECTRONIC ARTS INC" ticker="ERTS" sedol="2310194" ric="ERTS.OQ" cusip="285512109" price="47.98"/>
+   <instrument name="NEUROLOGIX INC" ticker="NRGX" sedol="B02SZH3" ric="NRGX.OB" cusip="64125U406" price="0.73"/>
+   <instrument name="QUALCOMM INC" ticker="QCOM" sedol="2714923" ric="QCOM.OQ" cusip="747525103" price="51.66"/>
+   <instrument name="ACCENTURE LTD-CL A" ticker="ACN" sedol="2763958" ric="ACN.N" cusip="G1150G111" price="33.78"/>
+   <instrument name="ISHARES LEHMAN 7-10YR TREAS" ticker="IEF" sedol="2971494" ric="IEF.A" cusip="464287440" price="83.06"/>
+   <instrument name="TD AMERITRADE HOLDING CORP" ticker="AMTD" sedol="2983154" ric="AMTD.OQ" cusip="87236Y108" price="19.08"/>
+   <instrument name="BARR PHARMACEUTICALS INC" ticker="BRL" sedol="2081779" ric="BRL.N" cusip="068306109" price="49.30"/>
+   <instrument name="NEW RIVER PHARMACEUTICALS" ticker="NRPH" sedol="B012Q51" ric="NRPH.OQ" cusip="648468205" price="49.85"/>
+   <instrument name="MODINE MANUFACTURING CO" ticker="MOD" sedol="2598354" ric="MOD.N" cusip="607828100" price="24.03"/>
+   <instrument name="SEI INVESTMENTS COMPANY" ticker="SEIC" sedol="2793610" ric="SEIC.OQ" cusip="784117103" price="45.67"/>
+   <instrument name="CNS INC" ticker="CNXS" sedol="2164443" ric="CNXS.OQ" cusip="126136100" price="23.98"/>
+   <instrument name="TOLL BROTHERS INC" ticker="TOL" sedol="2896092" ric="TOL.N" cusip="889478103" price="27.30"/>
+   <instrument name="EXXON MOBIL CORP" ticker="XOM" sedol="2326618" ric="XOM.N" cusip="30231G102" price="74.43"/>
+   <instrument name="BAUSCH &amp; LOMB INC" ticker="BOL" sedol="2084637" ric="BOL.N" cusip="071707103" price="49.39"/>
+   <instrument name="KOMAG INC" ticker="KOMG" sedol="2965389" ric="KOMG.OQ" cusip="500453204" price="42.99"/>
+   <instrument name="NUTRI/SYSTEM INC" ticker="NTRI" sedol="2620398" ric="NTRI.OQ" cusip="67069D108" price="74.86"/>
+   <instrument name="PEPSICO INC" ticker="PEP" sedol="2681511" ric="PEP.N" cusip="713448108" price="61.41"/>
+   <instrument name="HOME DEPOT INC" ticker="HD" sedol="2434209" ric="HD.N" cusip="437076102" price="36.40"/>
+   <instrument name="AETHER HOLDINGS INC" ticker="AETH" sedol="2504492" ric="AETH.OQ" cusip="00809C106" price="6.82"/>
+   <instrument name="CAMPBELL SOUP CO" ticker="CPB" sedol="2162845" ric="CPB.N" cusip="134429109" price="37.47"/>
+   <instrument name="MEMC ELECTRONIC MATERIALS" ticker="WFR" sedol="2580113" ric="WFR.N" cusip="552715104" price="35.66"/>
+   <instrument name="UTILITIES SELECT SECTOR SPDR" ticker="XLU" sedol="2371812" ric="XLU.A" cusip="81369Y886" price="35.99"/>
+   <instrument name="DR HORTON INC" ticker="DHI" sedol="2250687" ric="DHI.N" cusip="23331A109" price="22.38"/>
+   <instrument name="GAMESTOP CORP-CL A" ticker="GME" sedol="B0LLFT5" ric="GME.N" cusip="36467W109" price="52.29"/>
+   <instrument name="BEA SYSTEMS INC" ticker="BEAS" sedol="2087476" ric="BEAS.OQ" cusip="073325102" price="12.65"/>
+   <instrument name="MICREL INC" ticker="MCRL" sedol="2589734" ric="MCRL.OQ" cusip="594793101" price="12.30"/>
+   <instrument name="TORCHMARK CORP" ticker="TMK" sedol="2896713" ric="TMK.N" cusip="891027104" price="63.20"/>
+   <instrument name="CAPITAL ONE FINANCIAL CORP" ticker="COF" sedol="2654461" ric="COF.N" cusip="14040H105" price="77.50"/>
+   <instrument name="GRAFTECH INTERNATIONAL LTD" ticker="GTI" sedol="2906719" ric="GTI.N" cusip="384313102" price="6.74"/>
+   <instrument name="CIT GROUP INC" ticker="CIT" sedol="2965549" ric="CIT.N" cusip="125581108" price="52.31"/>
+   <instrument name="VERITAS DGC INC" ticker="VTS" sedol="2269843" ric="VTS.N" cusip="92343P107" price="76.23"/>
+   <instrument name="SLM CORP" ticker="SLM" sedol="2101967" ric="SLM.N" cusip="78442P106" price="47.38"/>
+   <instrument name="ADVANCED ENERGY INDUSTRIES" ticker="AEIS" sedol="2049175" ric="AEIS.OQ" cusip="007973100" price="16.19"/>
+   <instrument name="OCCIDENTAL PETROLEUM CORP" ticker="OXY" sedol="2655408" ric="OXY.N" cusip="674599105" price="48.16"/>
+   <instrument name="ANALOG DEVICES" ticker="ADI" sedol="2032067" ric="ADI.N" cusip="032654105" price="32.20"/>
+   <instrument name="SCHLUMBERGER LTD" ticker="SLB" sedol="2779201" ric="SLB.N" cusip="806857108" price="63.20"/>
+   <instrument name="POLYCOM INC" ticker="PLCM" sedol="2693420" ric="PLCM.OQ" cusip="73172K104" price="22.51"/>
+   <instrument name="WCI COMMUNITIES INC" ticker="WCI" sedol="2850913" ric="WCI.N" cusip="92923C104" price="15.81"/>
+   <instrument name="TXU CORP" ticker="TXU" sedol="2885700" ric="TXU.N" cusip="873168108" price="58.56"/>
+   <instrument name="HELMERICH &amp; PAYNE" ticker="HP" sedol="2420101" ric="HP.N" cusip="423452101" price="24.44"/>
+   <instrument name="SPDR TRUST SERIES 1" ticker="SPY" sedol="2840215" ric="SPY.A" cusip="78462F103" price="138.58"/>
+   <instrument name="AKAMAI TECHNOLOGIES" ticker="AKAM" sedol="2507457" ric="AKAM.OQ" cusip="00971T101" price="35.96"/>
+   <instrument name="PATTERSON-UTI ENERGY INC" ticker="PTEN" sedol="2672537" ric="PTEN.OQ" cusip="703481101" price="33.80"/>
+   <instrument name="HEALTH CARE SELECT SECTOR" ticker="XLV" sedol="2371823" ric="XLV.A" cusip="81369Y209" price="32.55"/>
+   <instrument name="ACTIVISION INC" ticker="ATVI" sedol="2575818" ric="ATVI.OQ" cusip="004930202" price="14.40"/>
+   <instrument name="HEXCEL CORP" ticker="HXL" sedol="2416779" ric="HXL.N" cusip="428291108" price="16.77"/>
+   <instrument name="WALGREEN CO" ticker="WAG" sedol="2934839" ric="WAG.N" cusip="931422109" price="42.07"/>
+   <instrument name="MDC HOLDINGS INC" ticker="MDC" sedol="2561204" ric="MDC.N" cusip="552676108" price="51.30"/>
+   <instrument name="AMERICAN FINANCIAL REALTY TR" ticker="AFR" sedol="2838920" ric="AFR.N" cusip="02607P305" price="11.54"/>
+   <instrument name="PARMALAT SPA-144A SPON GDR" ticker="PMLAY" sedol="B0GWD77" ric="PMLAY.PK" cusip="70175R102" price="3.05"/>
+   <instrument name="CHEVRON CORP" ticker="CVX" sedol="2838555" ric="CVX.N" cusip="166764100" price="70.35"/>
+   <instrument name="ISHARES RUSSELL 2000" ticker="IWM" sedol="2622059" ric="IWM.A" cusip="464287655" price="76.80"/>
+   <instrument name="RELIANT ENERGY INC" ticker="RRI" sedol="2687984" ric="RRI.N" cusip="75952B105" price="13.56"/>
+   <instrument name="ENERGY PARTNERS LTD" ticker="EPL" sedol="2675956" ric="EPL.N" cusip="29270U105" price="24.23"/>
+   <instrument name="QUIKSILVER INC" ticker="ZQK" sedol="2717557" ric="ZQK.N" cusip="74838C106" price="14.56"/>
+   <instrument name="CHARLES RIVER LABORATORIES" ticker="CRL" sedol="2604336" ric="CRL.N" cusip="159864107" price="43.99"/>
+   <instrument name="UNIVISION COMMUNICATIONS-A" ticker="UVN" sedol="2941925" ric="UVN.N" cusip="914906102" price="35.25"/>
+   <instrument name="NOKIA CORP-SPON ADR" ticker="NOK" sedol="2640891" ric="NOK.N" cusip="654902204" price="19.75"/>
+   <instrument name="RF MICRO DEVICES INC" ticker="RFMD" sedol="2016663" ric="RFMD.OQ" cusip="749941100" price="8.93"/>
+   <instrument name="APPLIED MATERIALS INC" ticker="AMAT" sedol="2046552" ric="AMAT.OQ" cusip="038222105" price="18.19"/>
+   <instrument name="INDYMAC BANCORP INC" ticker="NDE" sedol="2227250" ric="NDE.N" cusip="456607100" price="45.77"/>
+   <instrument name="BOEING CO" ticker="BA" sedol="2108601" ric="BA.N" cusip="097023105" price="85.69"/>
+   <instrument name="ISHARES DJ US REAL ESTATE" ticker="IYR" sedol="2605652" ric="IYR.N" cusip="464287739" price="79.89"/>
+   <instrument name="NEWMONT MINING CORP" ticker="NEM" sedol="2636607" ric="NEM.N" cusip="651639106" price="45.52"/>
+   <instrument name="VALEANT PHARMACEUTICALS INTE" ticker="VRX" sedol="2453011" ric="VRX.N" cusip="91911X104" price="16.73"/>
+   <instrument name="NEWELL RUBBERMAID INC" ticker="NWL" sedol="2635701" ric="NWL.N" cusip="651229106" price="28.82"/>
+   <instrument name="CIMAREX ENERGY CO" ticker="XEC" sedol="2987521" ric="XEC.N" cusip="171798101" price="35.77"/>
+   <instrument name="BROADCOM CORP-CL A" ticker="BRCM" sedol="2235822" ric="BRCM.OQ" cusip="111320107" price="39.08"/>
+   <instrument name="CONVERGYS CORP" ticker="CVG" sedol="2284761" ric="CVG.N" cusip="212485106" price="23.08"/>
+   <instrument name="PACKAGING CORP OF AMERICA" ticker="PKG" sedol="2504566" ric="PKG.N" cusip="695156109" price="23.22"/>
+   <instrument name="TENET HEALTHCARE CORP" ticker="THC" sedol="2626879" ric="THC.N" cusip="88033G100" price="7.34"/>
+   <instrument name="TEXAS INSTRUMENTS INC" ticker="TXN" sedol="2885409" ric="TXN.N" cusip="882508104" price="28.96"/>
+   <instrument name="ISHARES MSCI EMERGING MKT IN" ticker="EEM" sedol="2582409" ric="EEM.A" cusip="464287234" price="106.34"/>
+   <instrument name="FORD MOTOR CO" ticker="F" sedol="2615468" ric="F.N" cusip="345370860" price="8.87"/>
+   <instrument name="GARDNER DENVER INC" ticker="GDI" sedol="2374178" ric="GDI.N" cusip="365558105" price="35.64"/>
+   <instrument name="LEGG MASON INC" ticker="LM" sedol="2510615" ric="LM.N" cusip="524901105" price="92.24"/>
+   <instrument name="SCHWAB" ticker="SCHW" sedol="2779397" ric="SCHW.OQ" cusip="808513105" price="18.28"/>
+   <instrument name="DIVERSINET CORP" ticker="DVNTF" sedol="2332778" ric="DVNTF.OB" cusip="25536K303" price="0.82"/>
+   <instrument name="LSI LOGIC CORP" ticker="LSI" sedol="2498993" ric="LSI.N" cusip="502161102" price="10.42"/>
+   <instrument name="NS GROUP INC" ticker="NSS" sedol="2618898" ric="NSS.N" cusip="628916108" price="65.69"/>
+   <instrument name="CORNING INC" ticker="GLW" sedol="2224701" ric="GLW.N" cusip="219350105" price="20.69"/>
+   <instrument name="RC2 CORP" ticker="RCRC" sedol="2018324" ric="RCRC.OQ" cusip="749388104" price="39.75"/>
+   <instrument name="DYNAMIC MATERIALS CORP" ticker="BOOM" sedol="2326049" ric="BOOM.OQ" cusip="267888105" price="30.18"/>
+   <instrument name="L-3 COMMUNICATIONS HOLDINGS" ticker="LLL" sedol="2247366" ric="LLL.N" cusip="502424104" price="79.63"/>
+   <instrument name="AGL RESOURCES INC" ticker="ATG" sedol="2060961" ric="ATG.N" cusip="001204106" price="37.88"/>
+   <instrument name="HEALTH MGMT ASSOCIATES INC-A" ticker="HMA" sedol="2417987" ric="HMA.N" cusip="421933102" price="19.79"/>
+   <instrument name="CHIPMOS TECHNOLOGIES BERMUDA" ticker="IMOS" sedol="2774585" ric="IMOS.OQ" cusip="G2110R106" price="7.58"/>
+   <instrument name="GMH COMMUNITIES TRUST" ticker="GCT" sedol="B03GQV7" ric="GCT.N" cusip="36188G102" price="13.32"/>
+   <instrument name="TAUBMAN CENTERS INC" ticker="TCO" sedol="2872252" ric="TCO.N" cusip="876664103" price="45.53"/>
+   <instrument name="COUSINS PROPERTIES INC" ticker="CUZ" sedol="2229922" ric="CUZ.N" cusip="222795106" price="34.46"/>
+   <instrument name="COVANTA HOLDING CORP" ticker="CVA" sedol="2255778" ric="CVA.N" cusip="22282E102" price="19.75"/>
+   <instrument name="PENN REAL ESTATE INVEST TST" ticker="PEI" sedol="2680767" ric="PEI.N" cusip="709102107" price="39.00"/>
+   <instrument name="STAR GAS PARTNERS L.P." ticker="SGU" sedol="2766399" ric="SGU.N" cusip="85512C105" price="2.75"/>
+   <instrument name="LINCOLN NATIONAL CORP" ticker="LNC" sedol="2516378" ric="LNC.N" cusip="534187109" price="64.59"/>
+   <instrument name="HEWITT ASSOCIATES INC-CL A" ticker="HEW" sedol="2876351" ric="HEW.N" cusip="42822Q100" price="25.21"/>
+   <instrument name="JANUS CAPITAL GROUP INC" ticker="JNS" sedol="2605555" ric="JNS.N" cusip="47102X105" price="19.69"/>
+   <instrument name="NETWORK APPLIANCE INC" ticker="NTAP" sedol="2630643" ric="NTAP.OQ" cusip="64120L104" price="36.19"/>
+   <instrument name="SYNTEL INC" ticker="SYNT" sedol="2095703" ric="SYNT.OQ" cusip="87162H103" price="22.63"/>
+   <instrument name="ADVANCED SEMICONDUCTOR E-ADR" ticker="ASX" sedol="2646521" ric="ASX.N" cusip="00756M404" price="5.02"/>
+   <instrument name="SEMICONDUCTOR HOLDRs TRUST" ticker="SMH" sedol="2586713" ric="SMH.A" cusip="816636203" price="34.22"/>
+   <instrument name="FINANCIAL SELECT SECTOR SPDR" ticker="XLF" sedol="2364038" ric="XLF.A" cusip="81369Y605" price="35.76"/>
+   <instrument name="ISHARES MSCI JAPAN INDEX FD" ticker="EWJ" sedol="2373799" ric="EWJ.N" cusip="464286848" price="13.30"/>
+   <instrument name="CHUBB CORP" ticker="CB" sedol="2195722" ric="CB.N" cusip="171232101" price="52.77"/>
+   <instrument name="HUNTSMAN CORP" ticker="HUN" sedol="B0650B9" ric="HUN.N" cusip="447011107" price="17.50"/>
+   <instrument name="ABB LTD-SPON ADR" ticker="ABB" sedol="2748472" ric="ABB.N" cusip="000375204" price="15.57"/>
+   <instrument name="AMERIPRISE FINANCIAL INC" ticker="AMP" sedol="B0J7D57" ric="AMP_w.N" cusip="03076C106" price="51.65"/>
+   <instrument name="COLONIAL BANCGROUP INC" ticker="CNB" sedol="2205041" ric="CNB.N" cusip="195493309" price="23.69"/>
+   <instrument name="KEYCORP" ticker="KEY" sedol="2490911" ric="KEY.N" cusip="493267108" price="37.00"/>
+   <instrument name="MANHATTAN ASSOCIATES INC" ticker="MANH" sedol="2239471" ric="MANH.OQ" cusip="562750109" price="20.57"/>
+   <instrument name="DPL INC" ticker="DPL" sedol="2258904" ric="DPL.N" cusip="233293109" price="27.60"/>
+   <instrument name="MORGAN STANLEY" ticker="MS" sedol="2262314" ric="MS.N" cusip="617446448" price="77.33"/>
+   <instrument name="MIRANT CORP" ticker="MIR" sedol="B0V28J9" ric="MIR.N" cusip="60467R100" price="28.89"/>
+   <instrument name="SERVICE CORP INTERNATIONAL" ticker="SCI" sedol="2797560" ric="SCI.N" cusip="817565104" price="9.53"/>
+   <instrument name="TARGET CORP" ticker="TGT" sedol="2259101" ric="TGT.N" cusip="87612E106" price="57.76"/>
+   <instrument name="INQBB CORP" ticker="AVTJ" sedol="B01R2X6" ric="ACEE.PK" cusip="05356L102" price="0.01"/>
+   <instrument name="BPI ENERGY HOLDINGS INC" ticker="BPG" sedol="B01DDB9" ric="BPG.A" cusip="055934103" price="0.57"/>
+   <instrument name="LAUREATE EDUCATION INC" ticker="LAUR" sedol="2867689" ric="LAUR.OQ" cusip="518613104" price="47.07"/>
+   <instrument name="ANNALY MORTGAGE MANAGEMENT" ticker="NLY" sedol="2113456" ric="NLY.N" cusip="035710409" price="13.89"/>
+   <instrument name="COMMSCOPE INC" ticker="CTV" sedol="2042947" ric="CTV.N" cusip="203372107" price="31.78"/>
+   <instrument name="TD BANKNORTH INC" ticker="BNK" sedol="B05Q2D9" ric="BNK.N" cusip="87235A101" price="29.83"/>
+   <instrument name="INTERSECTIONS INC" ticker="INTX" sedol="2238768" ric="INTX.OQ" cusip="460981301" price="10.38"/>
+   <instrument name="TRANSOCEAN INC" ticker="RIG" sedol="2821287" ric="RIG.N" cusip="G90078109" price="74.33"/>
+   <instrument name="ANHEUSER-BUSCH COS INC." ticker="BUD" sedol="2033004" ric="BUD.N" cusip="035229103" price="46.97"/>
+   <instrument name="PROLOGIS" ticker="PLD" sedol="2790611" ric="PLD.N" cusip="743410102" price="60.26"/>
+   <instrument name="COLGATE-PALMOLIVE CO" ticker="CL" sedol="2209106" ric="CL.N" cusip="194162103" price="64.87"/>
+   <instrument name="ING GROEP N.V.-SPONSORED ADR" ticker="ING" sedol="2452643" ric="ING.N" cusip="456837103" price="43.39"/>
+   <instrument name="HEALTHCARE REALTY TRUST INC" ticker="HR" sedol="2417921" ric="HR.N" cusip="421946104" price="37.43"/>
+   <instrument name="NATIONWIDE HEALTH PPTYS INC" ticker="NHP" sedol="2095361" ric="NHP.N" cusip="638620104" price="27.30"/>
+   <instrument name="ADOBE SYSTEMS INC" ticker="ADBE" sedol="2008154" ric="ADBE.OQ" cusip="00724F101" price="33.38"/>
+   <instrument name="ITC HOLDINGS CORP" ticker="ITC" sedol="B0F7FR7" ric="ITC.N" cusip="465685105" price="35.40"/>
+   <instrument name="CLEAR CHANNEL COMMUNICATIONS" ticker="CCU" sedol="2202536" ric="CCU.N" cusip="184502102" price="34.38"/>
+   <instrument name="CERNER CORP" ticker="CERN" sedol="2185284" ric="CERN.OQ" cusip="156782104" price="39.81"/>
+   <instrument name="HONEYWELL INTERNATIONAL INC" ticker="HON" sedol="2020459" ric="HON.N" cusip="438516106" price="42.97"/>
+   <instrument name="ANADARKO PETROLEUM CORP" ticker="APC" sedol="2032380" ric="APC.N" cusip="032511107" price="46.80"/>
+   <instrument name="RYDER SYSTEM INC" ticker="R" sedol="2760669" ric="R.N" cusip="783549108" price="53.01"/>
+   <instrument name="IMS HEALTH INC" ticker="RX" sedol="2256511" ric="RX.N" cusip="449934108" price="29.11"/>
+   <instrument name="INNKEEPERS USA TRUST" ticker="KPA" sedol="2453646" ric="KPA.N" cusip="4576J0104" price="16.01"/>
+   <instrument name="T ROWE PRICE GROUP INC" ticker="TROW" sedol="2702337" ric="TROW.OQ" cusip="74144T108" price="82.55"/>
+   <instrument name="PROCTER &amp; GAMBLE CO" ticker="PG" sedol="2704407" ric="PG.N" cusip="742718109" price="63.25"/>
+   <instrument name="KILROY REALTY CORP" ticker="KRC" sedol="2495529" ric="KRC.N" cusip="49427F108" price="72.94"/>
+   <instrument name="SANDISK CORP" ticker="SNDK" sedol="2765802" ric="SNDK.OQ" cusip="80004C101" price="63.17"/>
+   <instrument name="ALKERMES INC" ticker="ALKS" sedol="2015176" ric="ALKS.OQ" cusip="01642T108" price="21.16"/>
+   <instrument name="CELANESE CORP-SERIES A" ticker="CE" sedol="B05MZT4" ric="CE.N" cusip="150870103" price="20.07"/>
+   <instrument name="LENNAR CORP-CL A" ticker="LEN" sedol="2511920" ric="LEN.N" cusip="526057104" price="46.26"/>
+   <instrument name="HEALTHWAYS INC" ticker="HWAY" sedol="2026059" ric="HWAY.OQ" cusip="422245100" price="48.02"/>
+   <instrument name="FTI CONSULTING INC" ticker="FCN" sedol="2351449" ric="FCN.N" cusip="302941109" price="29.15"/>
+   <instrument name="NYSE GROUP INC" ticker="NYX" sedol="B10CG04" ric="NYX.N" cusip="62949W103" price="94.69"/>
+   <instrument name="ENDO PHARMACEUT HLDGS INC" ticker="ENDP" sedol="2612287" ric="ENDP.OQ" cusip="29264F205" price="31.26"/>
+   <instrument name="ALCOA INC" ticker="AA" sedol="2021805" ric="AA.N" cusip="013817101" price="28.49"/>
+   <instrument name="FLIR SYSTEMS INC" ticker="FLIR" sedol="2344717" ric="FLIR.OQ" cusip="302445101" price="24.94"/>
+   <instrument name="BUILD-A-BEAR WORKSHOP INC" ticker="BBW" sedol="B034L50" ric="BBW.N" cusip="120076104" price="28.99"/>
+   <instrument name="JUNIPER NETWORKS INC" ticker="JNPR" sedol="2431846" ric="JNPR.OQ" cusip="48203R104" price="17.70"/>
+   <instrument name="ASML HOLDING NV-NY REG SHS" ticker="ASML" sedol="2242253" ric="ASML.OQ" cusip="N07059111" price="21.50"/>
+   <instrument name="CHIPOTLE MEXICAN GRILL-CL A" ticker="CMG" sedol="B0X7DZ3" ric="CMG.N" cusip="169656105" price="56.65"/>
+   <instrument name="BLOCKBUSTER INC-CL A" ticker="BBI" sedol="2441771" ric="BBI.N" cusip="093679108" price="4.62"/>
+   <instrument name="SCHOLASTIC CORP" ticker="SCHL" sedol="2779234" ric="SCHL.OQ" cusip="807066105" price="26.33"/>
+   <instrument name="HJ HEINZ CO" ticker="HNZ" sedol="2419240" ric="HNZ.N" cusip="423074103" price="43.29"/>
+   <instrument name="NET PERCEPTIONS INC" ticker="NETP" sedol="2411923" ric="NETP.PK" cusip="64107U101" price="2.06"/>
+   <instrument name="PPL CORPORATION" ticker="PPL" sedol="2680905" ric="PPL.N" cusip="69351T106" price="34.10"/>
+   <instrument name="NEWKIRK REALTY TRUST INC" ticker="NKT" sedol="B0NNWX2" ric="NKT.N" cusip="651497109" price="16.70"/>
+   <instrument name="GIANT INDUSTRIES INC" ticker="GI" sedol="2368193" ric="GI.N" cusip="374508109" price="76.25"/>
+   <instrument name="LEXINGTON CORPORATE PPTYS TR" ticker="LXP" sedol="2139151" ric="LXP.N" cusip="529043101" price="21.04"/>
+   <instrument name="SAVIENT PHARMACEUTICALS INC" ticker="SVNT" sedol="2098519" ric="SVNT.OQ" cusip="80517Q100" price="9.46"/>
+   <instrument name="MICROSEMI CORP" ticker="MSCC" sedol="2588140" ric="MSCC.OQ" cusip="595137100" price="26.73"/>
+   <instrument name="WATSON PHARMACEUTICALS INC" ticker="WPI" sedol="2943545" ric="WPI.N" cusip="942683103" price="24.71"/>
+   <instrument name="ANGIOTECH PHARMACEUTICALS IN" ticker="ANPI" sedol="2565325" ric="ANPI.OQ" cusip="034918102" price="15.24"/>
+   <instrument name="ABERCROMBIE &amp; FITCH CO-CL A" ticker="ANF" sedol="2004185" ric="ANF.N" cusip="002896207" price="74.37"/>
+   <instrument name="ENDWAVE CORPORATION" ticker="ENWV" sedol="2962119" ric="ENWV.OQ" cusip="29264A206" price="12.55"/>
+   <instrument name="SOUTHERN CO" ticker="SO" sedol="2829601" ric="SO.N" cusip="842587107" price="36.03"/>
+   <instrument name="MILLS CORP/THE" ticker="MLS" sedol="2887858" ric="MLS.N" cusip="601148109" price="19.01"/>
+   <instrument name="SPANSION INC-CLASS A" ticker="SPSN" sedol="B0TM8H9" ric="SPSN.OQ" cusip="84649R101" price="17.99"/>
+   <instrument name="EXELON CORP" ticker="EXC" sedol="2670519" ric="EXC.N" cusip="30161N101" price="58.89"/>
+   <instrument name="JED OIL INC" ticker="JDO" sedol="2304238" ric="JDO.A" cusip="472310101" price="3.22"/>
+   <instrument name="ISHARES MSCI SINGAPORE" ticker="EWS" sedol="2373830" ric="EWS.N" cusip="464286673" price="10.44"/>
+   <instrument name="CARNIVAL CORP" ticker="CCL" sedol="2523044" ric="CCL.N" cusip="143658300" price="48.73"/>
+   <instrument name="ENERGY SELECT SECTOR SPDR" ticker="XLE" sedol="2402466" ric="XLE.A" cusip="81369Y506" price="57.35"/>
+   <instrument name="SAFECO CORP" ticker="SAFC" sedol="2766805" ric="SAFC.OQ" cusip="786429100" price="56.48"/>
+   <instrument name="PINNACLE AIRLINES CORP" ticker="PNCL" sedol="2170848" ric="PNCL.OQ" cusip="723443107" price="9.48"/>
+   <instrument name="US AIRWAYS GROUP INC" ticker="LCC" sedol="B0LGKM8" ric="LCC.N" cusip="90341W108" price="51.53"/>
+   <instrument name="QIAGEN N.V." ticker="QGEN" sedol="2437907" ric="QGEN.OQ" cusip="N72482107" price="15.04"/>
+   <instrument name="AGILENT TECHNOLOGIES INC" ticker="A" sedol="2520153" ric="A.N" cusip="00846U101" price="35.00"/>
+   <instrument name="FRIEDMAN BILLINGS RAMSEY-A" ticker="FBR" sedol="2516817" ric="FBR.N" cusip="358434108" price="7.28"/>
+   <instrument name="CONSOLIDATED COMMUNICATIONS" ticker="CNSL" sedol="B07LSQ7" ric="CNSL.OQ" cusip="209034107" price="18.05"/>
+   <instrument name="CONSECO INC" ticker="CNO" sedol="2657750" ric="CNO.N" cusip="208464883" price="19.93"/>
+   <instrument name="ARCHER-DANIELS-MIDLAND CO" ticker="ADM" sedol="2047317" ric="ADM.N" cusip="039483102" price="35.06"/>
+   <instrument name="ARRIS GROUP INC" ticker="ARRS" sedol="2036434" ric="ARRS.OQ" cusip="04269Q100" price="12.84"/>
+   <instrument name="STATOIL ASA-SPON ADR" ticker="STO" sedol="2763129" ric="STO.N" cusip="85771P102" price="27.29"/>
+   <instrument name="AETNA INC" ticker="AET" sedol="2695921" ric="AET.N" cusip="00817Y108" price="40.76"/>
+   <instrument name="DRESS BARN INC" ticker="DBRN" sedol="2280565" ric="DBRN.OQ" cusip="261570105" price="26.47"/>
+   <instrument name="SANOFI-AVENTIS-ADR" ticker="SNY" sedol="2964557" ric="SNY.N" cusip="80105N105" price="42.64"/>
+   <instrument name="HEALTH CARE PPTYS INVEST INC" ticker="HCP" sedol="2417578" ric="HCP.N" cusip="421915109" price="32.17"/>
+   <instrument name="WYETH" ticker="WYE" sedol="2027104" ric="WYE.N" cusip="983024100" price="48.85"/>
+   <instrument name="J.C. PENNEY CO INC" ticker="JCP" sedol="2680303" ric="JCP.N" cusip="708160106" price="78.74"/>
+   <instrument name="TERRA INDUSTRIES INC" ticker="TRA" sedol="2462619" ric="TRA.N" cusip="880915103" price="9.35"/>
+   <instrument name="CAPITALSOURCE INC" ticker="CSE" sedol="2930246" ric="CSE.N" cusip="14055X102" price="26.42"/>
+   <instrument name="TECHNICAL OLYMPIC USA INC" ticker="TOA" sedol="2207489" ric="TOA.N" cusip="878483106" price="8.41"/>
+   <instrument name="SIRIUS SATELLITE RADIO INC" ticker="SIRI" sedol="2159698" ric="SIRI.OQ" cusip="82966U103" price="4.54"/>
+   <instrument name="RESOURCES CONNECTION INC" ticker="RECN" sedol="2697853" ric="RECN.OQ" cusip="76122Q105" price="28.46"/>
+   <instrument name="CROWN CASTLE INTL CORP" ticker="CCI" sedol="2285991" ric="CCI.N" cusip="228227104" price="32.77"/>
+   <instrument name="SONOCO PRODUCTS CO" ticker="SON" sedol="2821395" ric="SON.N" cusip="835495102" price="36.70"/>
+   <instrument name="BRINKER INTERNATIONAL INC" ticker="EAT" sedol="2193544" ric="EAT.N" cusip="109641100" price="46.79"/>
+   <instrument name="GLOBAL SIGNAL INC" ticker="GSL" sedol="B01C1Z6" ric="GSL.N" cusip="37944Q103" price="52.86"/>
+   <instrument name="MICRON TECHNOLOGY INC" ticker="MU" sedol="2588184" ric="MU.N" cusip="595112103" price="14.21"/>
+   <instrument name="BRAVO!FOODS INTERNATIONAL CP" ticker="BRVO" sedol="2249878" ric="BRVO.OB" cusip="105666101" price="0.38"/>
+   <instrument name="INTERFACE INC-CL A" ticker="IFSIA" sedol="2462910" ric="IFSIA.OQ" cusip="458665106" price="14.79"/>
+   <instrument name="HCA INC" ticker="HCA" sedol="2212193" ric="HCA.N" cusip="404119109" price="50.85"/>
+   <instrument name="LAYNE CHRISTENSEN COMPANY" ticker="LAYN" sedol="2508018" ric="LAYN.OQ" cusip="521050104" price="29.30"/>
+   <instrument name="GENZYME CORP" ticker="GENZ" sedol="2367598" ric="GENZ.OQ" cusip="372917104" price="56.28"/>
+   <instrument name="SIRF TECHNOLOGY HOLDINGS INC" ticker="SIRF" sedol="2712002" ric="SIRF.OQ" cusip="82967H101" price="33.02"/>
+   <instrument name="MONSANTO CO" ticker="MON" sedol="2654320" ric="MON.N" cusip="61166W101" price="46.86"/>
+   <instrument name="BAYER AG-SPONSORED ADR" ticker="BAY" sedol="2085652" ric="BAY.N" cusip="072730302" price="51.38"/>
+   <instrument name="UNITEDHEALTH GROUP INC" ticker="UNH" sedol="2917766" ric="UNH.N" cusip="91324P102" price="46.75"/>
+   <instrument name="METHANEX CORP" ticker="MEOH" sedol="2578378" ric="MEOH.OQ" cusip="59151K108" price="24.10"/>
+   <instrument name="PACCAR INC" ticker="PCAR" sedol="2665861" ric="PCAR.OQ" cusip="693718108" price="80.26"/>
+   <instrument name="QWEST COMMUNICATIONS INTL" ticker="Q" sedol="2034494" ric="Q.N" cusip="749121109" price="8.20"/>
+   <instrument name="INTERNATIONAL PAPER CO" ticker="IP" sedol="2465254" ric="IP.N" cusip="460146103" price="32.50"/>
+   <instrument name="ITT CORP" ticker="ITT" sedol="2465760" ric="ITT.N" cusip="450911102" price="53.95"/>
+   <instrument name="ISHARES S&amp;P SMALLCAP 600" ticker="IJR" sedol="2678869" ric="IJR.N" cusip="464287804" price="64.90"/>
+   <instrument name="ORACLE CORP" ticker="ORCL" sedol="2661568" ric="ORCL.OQ" cusip="68389X105" price="14.24"/>
+   <instrument name="ASPEN INSURANCE HOLDINGS LTD" ticker="AHL" sedol="2172372" ric="AHL.N" cusip="G05384105" price="26.25"/>
+   <instrument name="HEALTH NET INC" ticker="HNT" sedol="2418623" ric="HNT.N" cusip="42222G108" price="43.01"/>
+   <instrument name="VOLCOM INC" ticker="VLCM" sedol="B0CCS09" ric="VLCM.OQ" cusip="92864N101" price="37.22"/>
+   <instrument name="WISCONSIN ENERGY CORP" ticker="WEC" sedol="2973995" ric="WEC.N" cusip="976657106" price="46.09"/>
+   <instrument name="PIONEER DRILLING COMPANY" ticker="PDC" sedol="2288075" ric="PDC.A" cusip="723655106" price="13.56"/>
+   <instrument name="XILINX INC" ticker="XLNX" sedol="2985677" ric="XLNX.OQ" cusip="983919101" price="28.50"/>
+   <instrument name="GOLD KIST INC" ticker="GKIS" sedol="B02LX34" ric="GKIS.OQ" cusip="380614107" price="13.66"/>
+   <instrument name="ALLIANCE ONE INTERNATIONAL I" ticker="AOI" sedol="2269865" ric="AOI.N" cusip="018772103" price="5.62"/>
+   <instrument name="HUDSON CITY BANCORP INC" ticker="HCBK" sedol="2437952" ric="HCBK.OQ" cusip="443683107" price="13.67"/>
+   <instrument name="BORDERS GROUP INC" ticker="BGP" sedol="2081326" ric="BGP.N" cusip="099709107" price="23.96"/>
+   <instrument name="CITIGROUP INC" ticker="C" sedol="2297907" ric="C.N" cusip="172967101" price="50.69"/>
+   <instrument name="ANNTAYLOR STORES CORP" ticker="ANN" sedol="2038537" ric="ANN.N" cusip="036115103" price="38.81"/>
+   <instrument name="REGIONS FINANCIAL CORP" ticker="RF" sedol="B01R311" ric="RF.N" cusip="7591EP100" price="37.02"/>
+   <instrument name="XTO ENERGY INC" ticker="XTO" sedol="2236911" ric="XTO.N" cusip="98385X106" price="45.84"/>
+   <instrument name="AMSOUTH BANCORPORATION" ticker="ASO" sedol="2012070" ric="ASO.N" cusip="032165102" price="28.73"/>
+   <instrument name="DOVER CORP" ticker="DOV" sedol="2278407" ric="DOV.N" cusip="260003108" price="49.92"/>
+   <instrument name="SAFEGUARD SCIENTIFICS INC" ticker="SFE" sedol="2766902" ric="SFE.N" cusip="786449108" price="2.47"/>
+   <instrument name="BOWATER INC" ticker="BOW" sedol="2115537" ric="BOW.N" cusip="102183100" price="21.04"/>
+   <instrument name="PFIZER INC" ticker="PFE" sedol="2684703" ric="PFE.N" cusip="717081103" price="25.89"/>
+   <instrument name="COMCAST CORP-CL A" ticker="CMCSA" sedol="2044545" ric="CMCSA.OQ" cusip="20030N101" price="32.28"/>
+   <instrument name="CORUS BANKSHARES INC" ticker="CORS" sedol="2739034" ric="CORS.OQ" cusip="220873103" price="65.52"/>
+   <instrument name="FPL GROUP INC" ticker="FPL" sedol="2328915" ric="FPL.N" cusip="302571104" price="53.31"/>
+   <instrument name="PEPSI BOTTLING GROUP INC" ticker="PBG" sedol="2404569" ric="PBG.N" cusip="713409100" price="31.94"/>
+   <instrument name="SILICONWARE PRECISION -ADR" ticker="SPIL" sedol="2577502" ric="SPIL.OQ" cusip="827084864" price="7.03"/>
+   <instrument name="SIGMA DESIGNS INC" ticker="SIGM" sedol="2807555" ric="SIGM.OQ" cusip="826565103" price="22.06"/>
+   <instrument name="US BANCORP" ticker="USB" sedol="2736035" ric="USB.N" cusip="902973304" price="33.70"/>
+   <instrument name="RADIOSHACK CORP" ticker="RSH" sedol="2871505" ric="RSH.N" cusip="750438103" price="17.24"/>
+   <instrument name="ADVANCED CELL TECHNOLOGY INC" ticker="ACTC" sedol="2988159" ric="ACTC.OB" cusip="00752K105" price="0.85"/>
+   <instrument name="CATERPILLAR INC" ticker="CAT" sedol="2180201" ric="CAT.N" cusip="149123101" price="59.52"/>
+   <instrument name="COMCAST CORP-SPECIAL CL A" ticker="CMCSK" sedol="2089687" ric="CMCSK.OQ" cusip="20030N200" price="32.16"/>
+   <instrument name="HAWAIIAN ELECTRIC INDS" ticker="HE" sedol="2415204" ric="HE.N" cusip="419870100" price="26.95"/>
+   <instrument name="ABBOTT LABORATORIES" ticker="ABT" sedol="2002305" ric="ABT.N" cusip="002824100" price="45.65"/>
+   <instrument name="ASHLAND INC" ticker="ASH" sedol="B0BVFJ5" ric="ASH.N" cusip="044209104" price="65.85"/>
+   <instrument name="UNIVERSAL COMPRESSION HLDGS" ticker="UCO" sedol="2591869" ric="UCO.N" cusip="913431102" price="60.79"/>
+   <instrument name="ST JUDE MEDICAL INC" ticker="STJ" sedol="2767381" ric="STJ.N" cusip="790849103" price="33.48"/>
+   <instrument name="KUHLMAN COMPANY INC" ticker="KUL" sedol="B0BCDT4" ric="KUL.A" cusip="501197107" price="0.10"/>
+   <instrument name="ENZON PHARMACEUTICALS INC" ticker="ENZN" sedol="2318660" ric="ENZN.OQ" cusip="293904108" price="8.03"/>
+   <instrument name="INLAND REAL ESTATE CORP" ticker="IRC" sedol="B03WNC5" ric="IRC.N" cusip="457461200" price="18.32"/>
+   <instrument name="AVAYA INC" ticker="AV" sedol="2624356" ric="AV.N" cusip="053499109" price="13.17"/>
+</instruments>

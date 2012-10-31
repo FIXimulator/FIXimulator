@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instruments>
+   <instrument name="TXU CORP" ticker="TXU" sedol="2885700" ric="TXU.N" cusip="873168108" price="58.56"/>
+   <instrument name="INTL BUSINESS MACHINES CORP" ticker="IBM" sedol="2005973" ric="IBM.N" cusip="459200101" price="92.07"/>
+   <instrument name="YAHOO! INC" ticker="YHOO" sedol="2986539" ric="YHOO.OQ" cusip="984332106" price="32.09"/>
+   <instrument name="EBAY INC" ticker="EBAY" sedol="2293819" ric="EBAY.OQ" cusip="278642103" price="32.59"/>
+   <instrument name="AMAZON.COM INC" ticker="AMZN" sedol="2000019" ric="AMZN.OQ" cusip="023135106" price="34.15"/>
+</instruments>

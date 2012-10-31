@@ -1,0 +1,6 @@
+20080713-09:54:15: Session FIX.4.2:FIXIMULATOR->BANZAI schedule is daily, 00:00:00 UTC - 00:00:00 UTC (daily, 00:00:00 UTC - 00:00:00 UTC)
+20080713-09:54:15: Created session: FIX.4.2:FIXIMULATOR->BANZAI
+20080713-09:54:16: Accepting session FIX.4.2:FIXIMULATOR->BANZAI from /127.0.0.1:51917
+20080713-09:54:16: Acceptor heartbeat set to 30 seconds
+20080713-09:54:16: Received logon request
+20080713-09:54:16: Responding to logon request
